@@ -4,12 +4,12 @@
         "env": {
             "TOKEN": ""
         },
-        "run": ""
+        "run": "python3 bot.py"
     },
     "bot2": {
-        "source": "https://github.com/<GitHub Username>/<repo2>.git",
+        "source": "",
         "env": {
             "TOKEN": ""
         },
-        "run": ""
+        "run": "python3 bot.py"
 }
