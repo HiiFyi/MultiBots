@@ -1,6 +1,6 @@
 {   
     "bot1": {
-        "source": "https://github.com/<GitHub Username>/<repo1>.git",
+        "source": "https://github.com/HiiFyi/Zisssan000.1",
         "env": {
             "TOKEN": ""
         },
@@ -12,12 +12,4 @@
             "TOKEN": ""
         },
         "run": ""
-    },
-    "bot3": {
-        "source": "https://<GitHub Username>:<GitHub Token>@github.com/<GitHub Username>/<private-repo>.git",
-        "env": {
-            "TOKEN": ""
-        },
-        "run": ""
-    }
 }
